@@ -1,0 +1,130 @@
+[Map]
+001,H     ######### ######### ######### ######### ######### ######### ######### ######### ######### ######### ######### ######### ######### ######### ######### ######### 002,He  
+003,Li    004,Be    ######### ######### ######### ######### ######### ######### ######### ######### ######### ######### 005,B     006,C     007,N     008,O     009,F     010,Ne
+011,Na    012,Mg    ######### ######### ######### ######### ######### ######### ######### ######### ######### ######### 013,Al    014,Si    015,P     016,S     017,Cl    018,Ar 
+019,K     020,Ca    021,Sc    022,Ti    023,V     024,Cr    025,Mn    026,Fe    027,Co    028,Ni    029,Cu    030,Zn    031,Ga    032,Ge    033,As    034,Se    035,Br    036,Kr
+037,Rb    038,Sr    039,Y     040,Zr    041,Nb    042,Mo    043,Tc    044,Ru    045,Rh    046,Pd    047,Ag    048,Cd    049,In    050,Sn    051,Sb    052,Te    053,I     054,Xe
+055,Cs    056,Ba    ######### 072,Hf    073,Ta    074,W     075,Re    076,Os    077,Ir    078,Pt    079,Au    080,Hg    081,Tl    082,Pb    083,Bi    084,Po    085,At    086,Rn
+087,Fr    088,Ra    ######### 104,Rf    105,Db    106,Sg    107,Bh    108,Hs    109,Mt    110,Uun   111,Uuu   112,Uub   113,()    114,(114) 115,()    116,(116) 117,()    118,()
+######### ######### 057,La    058,Ce    059,Pr    060,Nd    061,Pm    062,Sm    063,Eu    064,Gd    065,Tb    066,Dy    067,Ho    068,Er    069,Tm    070,Yb    071,Lu    #########
+######### ######### 089,Ac    090,Th    091,Pa    092,U     093,Np    094,Pu    095,Am    096,Cm    097,Bk    098,Cf    099,Es    100,Fm    101,Md    102,No    103,Lr    #########
+
+[Data]
+001,H,Hydrogen,1.00797,(+1@-1),-259.14,-252.87,0.089,2.1,0.37,Henry Cavendish,Britain,1766,Rocket fuel@ art of the tissues of all plants and animals.
+002,He,Helium,4.0026,0,-272.2,-268.9,0.124,-,-,Pierre Janssen,France,1868,Ballons@ lasers and bombs
+003,Li,Lithium,6.941,+1,180.5,1342,0.534,1.0,1.23,J.A. Arfvedson,Sweden,1817,Lubricant@ alloys and a heat transfer.
+004,Be,Beryllium,9.0122,+2,1278,2970,1.85,1.5,0.89,Friedrich Woehler,Germany@ France,1828,Spring of a watch@ parts of space shuttles and x-rays.
+005,B,Boron,10.81,+3,2300,2550,2.35,2.0,0.8,J. Gay-Lussac@ L. Thenard of France@ Sir Humphry Davy,Britain,1808,Crystals@ glasses (all kinds)@ and semi-conductor devices.
+006,C,Carbon,12.001,(2@+-4),3550,4827,3.52,2.5,0.77,Sir Humphry Davy,,1800,diamond@ charcoal@ carbon paper.
+007,N,Nitrogen,14.0067,(+-3@4@5),-209.9,-195.8,1.25,3.0,0.74,Daniel Rutherford,Britain,1772,fertilizers like urea@ and in pressurized container.
+008,O,Oxygen,15.9994,-2,-218.4,-182.9,1.429,3.5,0.74,Joseph Priestly,Britain,1774,H2O (water)@ agent in combustion, steel making and welding.
+009,F,Flourine,18.9984,-1,-219.62,-188.14,1.696,4.0,0.72,Henry Moissan,France,1886,tooth paste additive and additive to H2O supply.
+010,Ne,Neon,20.179,0,-248.7,-246.0,1.204,-,-,William Ramsy,M. Travers Britain,1898,neon lamps@ TV tubes.
+011,Na,Sodium,22.9898,+1,97.81,882.9,0.972,0.9,1.57,Sir Humpry Davy,Britain,1807,Manufracture of salt compounds@ dyes@ drugs and perfumes.
+012,Mg,Magnesium,24.305,+2,649,1090,1.74,1.2,1.36,Sir Humpry Davy,Britain,1808,flash bulbs@ fireworks@ bicycle parts.
+013,Al,Aluminium,26.9815,+3,660,2467,2.70,1.5,1.25,H. C. Oersted,Denmark,1825,cooking utensils@ electrical wires@ foil and wrapping materials
+014,Si,Silicon,28.0855,(2@+-4),1410,2355,2.24,1.8,1.17,J. J. Berzelius,Sweden,1824,transistors@ micro-computers@ rocks and sand.
+015,P,Phosphorus,30.9738,+-3.5,44.1,280,1.83,2.1,1.10,1,Henning Brandt,Germany,1669,matches@ detergents@ rat poison@ drugs@ matches
+016,S,Sulfur,32.06,(-2@4@6),112.8,444.6,2.07,2.5,1.04,Sir Humpry Davy,Britain,1807,wave lotion@ soap and a component of gun powder@ paper@ textiles
+017,Cl,Chlorine,35.453,(+-1@5@7),-100.9,-34.6,3.214,3.0,0.99,Carl W. Scheele,Sweden,1774,purifying drinking H2O@ Wood pulp and bleaching
+018,Ar,Argon,39.948,0,189.2,-185.7,1.65,-,-,Sir W Ramsay@ Lord Rayleigh,Britain,1894,electric light bulbs@ flourescent tubes.
+019,K,Potassium,39.0983,+1,63.25,759.9,0.87,0.8,2.03,Sir Humphry Davy,Britain,1807,fertilizers@ radioactive rocks@ soap@ glass and matches
+020,Ca,Calcium,40.08,+2,839,1484,1.55,1.0,1.74,Sir Humphry Davy,Britain,1808,cement@ battery@ bearings@ fertilizer@ paint
+021,Sc,Scandium,44.9559,+3,1539,2832,2.98,1.3,1.44,Lars Nilson,Sweden,1879,Spacecraft materials@ steels and other alloys.
+022,Ti,Titanium,47.90,(2@3@4),1660,3287,4.51,1.5,1.32,William Gregor,Britain,1791,aircraft materials@ steels and other alloys.
+023,V,Vanadium,50.9415,(2@3@4@5),1890,3380,6.10,1.6,1.22,A. del Rio, Spain,1830,ceramics@ tools of high strength
+024,Cr,Chromium,51.996,(2@3@6),1857,2672,7.14,1.6,1.17,L.N. Vanguellin,France,1797,videotapes@ chromium@ plating@ stainless steels.
+025,Mn,Manganese,54.938,(2@3@4@7),1244,1962,7.3,1.5,1.17,J.G. Gahn and Carl W. Sheele,Sweden,1774,rail switches@ heavy machines@ deodorant and germicides.
+026,Fe,Iron,55.847,2.3,1535,2750,7.87,1.8,1.17,Ancient,,,flatiron@ a metal headed golf club@ iron tool@ weapon and utensils.
+027,Co,Cobalt,58.9332,(2@3),1495,2870,8.83,1.8,1.16,G. Brandt,Sweden,1735,razorblades@ alloys and biologically essential for the activity of several enzymes.
+028,Ni,Nickel,58.71,(2@3),1453,2732,8.8,1.8,1.15,A. F. Cronstedt,Sweden,1751,coinage@ stainless steels and nickel alloy
+029,Cu,Copper,63.546,1.2,1083,2567,8.94,1.9,1.17,Ancient,,,gun metals@ copper wires@ boilers@ bronze
+030,Zn,Zinc,65.38,+2,419.6,907,7.1,1.6,1.25,A. Marggraf,Germany,1746,gutter@ alloys@ electric@ batteries@ galvanized iron and steel
+031,Ga,Gallium,69.72,+3,29.78,2403,5.9,1.6,1.25,P. Lecoq de Boisbaudran,France,1875,quartz thermometers@ transistors and other semi-condutor parts/
+032,Ge,Germanium,72.59,(2@4),937.4,2830,5.36,1.8,1.22,C.A. Winkler,Germany,1886,special camera lens@ transistors@ rectifiers@ computer cables
+033,As,Arsenic,74.9216,(+-3@5),817,613,5.72,2.0,1.21,Albertus Magnus,Germany,1250,insecticide or drug@ agricultural pesticides.
+034,Se,Selenium,78.96,(-2@4@6),217,685,4.82,2.4,1.17,J.J. Berzellius,Sweden,1817,xerox or copy machines@ photocells@ solar cells.
+035,Br,Bromine,79.904,+-1.5,-7.2,58.8,3.12,2.8,1.14,A.J. Balard,France,1826,photographic film@ treatment of sea H2O or natural brines with chlorine.
+036,Kr,Krypton,83.80,0,-156.6,-152.3,3.4,-,-,Sir W. Ramsay@ M. Travers,Britain,1898,flourescent lamps@ photographic flash-lamps@ basis of meter length.
+037,Rb,Rubidium,85.4678,+1,38.9,686,1.53,0.8,2.16,Robert Kirchoff@ Gustav Bunsen,Germany,1861,gas scavenger in a vacumm@ photoelectric cells.
+038,Sr,Strontium,87.62,+2,769,1384,2.6,1.0,1.91,Adair Crowford,Britain,1790,magnet class for color TV@ nuclear explosions@ reactor fuel.
+039,Y,Yttrium,88.9059,+3,1523,3337,4.457,1.3,1.62,J. Gadolin, Finaland,1794,color TV screen@ microwave filters@ transmitter@ transducer
+040,Zr,Zirconium,91.22,+4,1852,4377,6.44,1.4,1.45,M. H. Kluproth,Germany,1789,gmestone zircon@ magnets construction to electrical power.
+041,Nb,Niobium,92.9064,3.5,2468,4742,8.66,1.6,1.34,C. Hatchett,Britain,1801,welding rods,super conductive magnets.
+042,Mo,Molybdenum,95.94,(3@5@6),2617,4612,9.01,1.8,1.29,Carl W. Scheele,Sweden,1778,radar structural parts@ filament@ missle parts@ lubricant@ superconductor
+043,Tc,Technetium,(97),(4@6@7),2172,4877,-,1.9,1.27,C. Perrier and E.G. Segre, Italy,1937,scanning body organs.
+044,Ru,Ruthenium,101.07,(3@4@6@8),2310,3900,12.1,2.2,1.26,Karl Klaus,USSR@ Russia,1844,Jewelries@ platinum ores@ catalyst and alloying element.
+045,Rh,Rhodium,102.9055,3.4,1966,3727,12.44,2.2,1.25,William H. Wollaston,Britain,1803,headline reflectors@ spark plugs bushings@ aircraft@ turbine engine
+046,Pd,Palladium,106.4,(2@4),1554,3140,12.16,2.2,1.28,W. H. Wollaston,Britain,1803,telephone relays@ surgical instrument@ dental crowns.
+047,Ag,Silver,107.868,+1,961.9,2212,10.49,1.9,1.34,Ancient,,,decorative items@ mirrors@ silverwares@ jewelry coins and photography
+048,Cd,Cadmium,112.41,+2,321,765,8.65,1.7,1.41,Friedrich Stromeyer,Germany,1817,recharrgeable batteries@ bearings@ manufacture of fresible alloys.
+049,In,Indium,114.82,+3,156.6,2080,7.31,1.7,1.5,F. Reich and H. T. Richter,Germany,1863,transistor rectifiers@ low melting alloys and semi-conductor devices.
+050,Sn,Tin,118.69,(2@4),232,2270,7.29,1.8,1.41,American Scientist,,,tin wares; a box or container made of tin@ cans@ super conductive magnets.
+051,Sb,Antimony,121.75,+-3.5,630.7,1750,6.62,1.9,1.41,American Scientist,,1450,batteries@ bearings@ tracer bullets.
+052,Te,Tellurium,127.60,(-2@4@6),449.5,989.8,6.24,2.1,1.37,F.M. Von Reichenstein,Poland,1782,vulcanization of rubber ceramics@ ingredient blazing caps.
+053,I,Iodine,126.9045,(+-1@5@7),113.50,184.35,4.94,2.5,1.33,Bernard Courtois,France,1811,antiseptic@ photography@ treatment of thyroid-gland disorders.
+054,Xe,Xenon,131.30,0,-112,-107,3.05,-,-,William Ramsay and M.W. Traverse,Britain,1898,Sun lamps@ discharge lamps@ UV lamps.
+055,Cs,Cesium,132.9054,+1,28.40,669.3,1.87,0.7,2.35,G. Kirchoff and R. Bunsen,Germany,1860,photoelectric cells@ atomic clocks.
+056,Ba,Barium,137.33,+2,725,1640,3.5,0.9,1.98,Sir Humpry Davy,Britain,1808,X-rays examinations@ spark plugs@ rat poison@ sonar detector
+057,La,Lanthanum,138.9055,+3,920,3454,6.16,1.1,1.69,Carl G. Mosander,Sweden,1839,crude petroleum@ quality lenses@ lighter flints.
+058,Ce,Cerium,140.12,(3@4),798,3257,6.77,1.1,1.65,W. Von Hisinger and J. Berzellius,Sweden,1803,glass manufacturing@ pyphoric allows@ incandescent mantles.
+059,Pr,Praseodymium,140.9077,+3,931,3212,6.77,1.1,1.65,Carl Auer Von Welsback,Austria,1885,colored glass for astronomical lenses@ carbon arc-lamps.
+060,Nd,Neodymium,144.24,+3,1010,3127,7.00,1.2,1.64,Carl Auer Von Welsback,Austria,1885,colored lasers@ electronics.
+061,Pm,Promethium,(145),+3,1080,2460,7.22,-,1.63,J.A. Marinsky@ L.E. Glendenin,USA,1945,nuclear powered batteries; x-rays and beta source for gauges.
+062,Sm,Samarium,150.4,2.3,1072,1778,7.54,1.2,1.66,Lecoq de Boisbaudran,France,1879,Optical glass@ pyprophoric alloys@ powerful permanent magnets.
+063,Eu,Europium,151.965,(2@3),822,1597,5.24,-,1.85,Eugene Demarcay,France,1896,Laser materials@ neutron absorber reactors@ pyrophoric@ alloys.
+064,Gd,Gadolinium,157.25,+3,1311,3233,7.89,1.1,1.61,Jean Marignac,Switzerland,1880,control rods in some nuclear reactors@ phosphorus for TV tubes@ ferrites.
+065,Tb,Terbium,158.9254,+3,1360,3041,8.25,1.2,1.59,Carl G. Mosander,Sweden,1843,Laser material,crystal stabilizers semi-conductors.
+066,Dy,Dysprosium,162.50,+3,1409,2335,8.56,-,1.59,Paul Emile Leoq de Boisbaudran,France,1886,metallurgy@ alloys@ control devices for nuclear reactors.
+067,Ho,Holmium,164.9304,+3,1470,2720,8.78,1.2,1.58,J.L. Soret,Switzerland,1878,spectroscope,monazite(phosphate)@ forms salt with oxygen.
+068,Er,Erbium,167.26,+3,1522,2510,9.04,1.2,1.57,Carl G. Mosander,Sweden,1843,pink colorants for glasses@ specialized alloys@ monazite (phosphate).
+069,Tm,Thulium,168.9342,+3,1545,1727,9.32,1.2,1.56,Per T. Cleve,Sweden,1879,portable x-ray machines,ceramic magnetic material@ energy source.
+070,Yb,Ytterbium,173.04,(2@3),824,1193,6.97,1.1,1.70,Jean de Marignac,Switzerland,1907,stainless steel@ monazite (phosphate).
+071,Lu,Lutetium,174.967,+3,1656,3315,9.84,1.2,1.56,Georges Urbain,France,1907,pertoleum cracking,polymerization catalyst@ monazite (phosphate)
+072,Hf,Hafnium,178.49,+4,2227,4602,13.1,1.3,1.44,Dirk Coster and George de Hevesey,Denmark,1923,control rods in nuclear reactors@ ores@ neutron absorber.
+073,Ta,Tantalum,180.948,+5,2296,5425,16.63,1.5,1.34,Anders Gustav Ekeberg,Sweden,1802,capacitors@ vacuum furnace parts@ surgical dental apparatus.
+074,W,Tungsten,183.85,+6,3410,5660,19.3,1.7,1.30,Fausto and Juan Jose de Elhuyar,Spain,1783,lamp filaments@ high speed steels@ special alloys and lubricant.
+075,Re,Rhenium,186.2,(1@4@6),3180,5627,21.04,1.9,1.28,Noddack@ Tacke and Berg,Germany,1925,thermocouples@ photoflash lamps@ catalysts.
+076,Os,Osmium,190.2,(3@4),3045,5027,22.5,2.2,1.26,Smithson Tennant,Britain,1804,fountain pen point@ hard alloys@ powerful oxidizing agent.
+077,Ir,Iridum,192.22,(3@4),2410,4130,22.42,2.2,1.26,Eugene Demarcay,France,1896,Laser materials@ neutron absorber reactors@ pyrophoric alloys.
+078,Pt,Platinum,195.09,(2@4),1772,3827,21.37,2.2,1.29,Antonio de Ulloa,South America 1735,crucibles@ wires@ jewelries@ thermocouples@ electrodes.
+079,Au,Gold,196.9665,(1@3),1064,3080,19.32,2.4,1.34,Ancient,,,jewelries@ coins@ dental wires@ radio theraphy@ electronic devices
+080,Hg,Mercury,200.59,1.2,-38.87,356.6,13.55,1.9,1.44,Ancient,,,thermometers@ barometers@ mercury vapor lamps and mercury device
+081,Tl,Thalium,204.37,(1@3),303.5,1457,11.85,1.8,1.55,Sir William Crookes,Briatin,1861,detectors@ specialized glasses@ iron pyrites.
+082,Pb,Lead,207.2,(2@4),327.5,1740,11.4,1.8,1.54,Ancient,,,car/jeepney batteries@ drain pipes@ cable and alloys like solder and pigments
+083,Bi,Bismuth,208.9804,(3@5),271.3,1560,9.78,1.9,1.52,Claude Geoffrey,France,1753,acrylic fibers@ castings (metals), electrical fuses
+084,Po,Polonium,(209),(2@4),254,962,9.4,2.0,1.53,Pierrie and Marie Curie,France,1898,space satellites@ generators@ nuclear batteries@ nuclear research
+085,At,Atstatine,(210),+-1,302,337,-,2.2,-,Corson@ MacKenzie and Serge,USA,1940,treatment of hyperthyroidisms@ electrical and alpha particles.
+086,Rn,Radon,(222),0,-71,-61.8,9.72,-,-,F.E. Dorn,Germany,1900,alpha emitters@ decay product of radium@ present in Earth's atmosphere@ therapeutic use
+087,Fr,Francium,(223),+1,(27),(677),2.4,0.7,-,Marguerite Perey,France,1939,ores and a decay product of actinum.
+088,Ra,Radium,226.0254,+2,700,1140,5,0.9,-,Pierrie and Marie Curie,France,1898,luminous paints@ medical radiotheraphy@ gamma radiation.
+089,Ac,Actinium,(227),+3,1050,3200,-,1.1,1.69,Andre Debierne,France,1899,source of alpha rays@ found in uranium ores.
+090,Th,Thorium,232.0381,+4,1750,4790,11.0,1.3,1.65,J.J. Berzellius,Sweden,1828,laboratory crucibles@ photoelectric emitters@ burns in air.
+091,Pa,Protactinium,231.0359,(4@5),1600,-,-,1.5,-,Soddy & Cranston of Britain@ Hahn and Meitner,Germany,1917,picthblende (minerals).
+092,U,Uranium,238.029,(3@4@5@6),1132,3818,19.05,1.7,1.42,Martin H. Klaproth,Germany,1789,fission reactors and bombs@ breeder reactors@ fuels used in reactors.
+093,Np,Neptunium,237.0482,(3@4@5@6),640,3902,-,1.32,-,E.M. McMillian and P. Abelson,USA,1940,nuclear weapons
+094,Pu,Plutonium,(244),(3@4@5@6),641,3232,-,1.3,-,G. Seaborg@ McMillian@ Kennedy and Wahl,USA,1940,nuclear weapons@ nuclear reactors@ ores.
+095,Am,Americium,(243),(3@4@5@6),994,2607,-,1.3,-,Glenn Seaborg@ Ghiorso & James Morgan,USA,1944,source of gamma radiography@ glass thickness gauge@ source of ionization
+096,Cm,Curium,(247),+3,1340,-,-,-,-,Glenn Seaborg@ James Morgan & Ghiorso,USA,1944,power source and source of alpha particles.
+097,Bk,Berkelium,(247),(3@4),-,-,-,-,-,Glenn T. Seaborg@ S.G. Thompson and A. Ghiorso,USA,1949,source of alpha particles.
+098,Cf,Celifornium,(251),+3,-,-,-,-,-,S.G. Thompson@ K. Street Jr.@ A. Ghiorso and Glenn T. Seaborg,USA,1950,Neutron moisture gauges@ source of alpha particle bombardment.
+099,Es,Einstenium,(254),+3,-,-,-,-,-,A. Ghiorso and co.,USA,1952,hydrogen-bomb explosion@ decay product of uranium.
+100,Fm,Fermium,(257),+3,-,-,-,-,-,A. Ghiorso and co.,USA,1953,hydrogen-bomb explosion.
+101,Md,Mendelevium,(258),(2@3),-,-,-,-,-,A. Ghiorso@ B.G. Harvey@ G. Choppin@ S.G. Thompson and G. Seaborg and co.,USA 1955,shortlived radioactive element@ source of alpha-particle and bombardment.
+102,No,Nobelium,(259),(2@3),-,-,-,-,-,A. Ghiorso and co.,,1958,
+103,Lr,Lawrencium,(260),+3,-,-,-,-,-,A. Ghiorso and co.,USA,1961,
+104,Rf,Rutherfordium,(261),+4,-,-,-,-,-
+105,Db,Dubnium,(262),-,-,-,-,-,-
+106,Sg,Seaborgium,(263),-,-,-,-,-,-
+107,Bh,Bohrium,(262),-,-,-,-,-,-
+108,Hs,Hassium,(265),-,-,-,-,-,-
+109,Mt,Meitnerium,(266),-,-,-,-,-,-
+110,Uun,Unununium,(269),-,-,-,-,-,-
+111,Uuu,Unununium,(272),-,-,-,-,-,-
+112,Uub,Ununbium,(277),-,-,-,-,-,-
+113,(),,,,,,,,
+114,(114),,,,,,,,
+115,(),,,,,,,,
+116,(116),,,,,,,,
+117,(),,,,,,,,
+118,(),,,,,,,,
